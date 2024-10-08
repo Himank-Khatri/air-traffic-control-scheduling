@@ -44,10 +44,8 @@ This web application simulates flight scheduling and landing using a combination
 - **Backend**: Priority queue using Python’s `heapq` module
 - **Time Handling**: Python’s `datetime` and `timedelta` modules for scheduling flights.
 
-## Screenshot
-
-![Flight Scheduling Simulation](https://air-traffic-control-simulation.streamlit.app/screenshot)
-
 ## Author
 
 Himank Khatri
+Farhan Gandhi
+Parthiv Bhandary
