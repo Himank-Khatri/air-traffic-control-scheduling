@@ -46,6 +46,6 @@ This web application simulates flight scheduling and landing using a combination
 
 ## Author
 
-Himank Khatri
-Farhan Gandhi
-Parthiv Bhandary
+Himank Khatri,
+Farhan Gandhi,
+Parthiv Bhandary.
